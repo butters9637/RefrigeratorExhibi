@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-git lfs track "Annette M. Burden, J. Douglas Faires, Richard L. Burden - Numerical Analysis-Cengage Learning (2015).pdf"
+git lfs track "*.pdfa"
